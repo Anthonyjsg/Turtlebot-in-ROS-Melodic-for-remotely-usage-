@@ -120,7 +120,7 @@ sudo systemctl enable ssh
 > 
 
 ```bash
-scp "Windows_file_path.py" [user@](mailto:usuario@192.168.1.10)IP_Raspberry:/home/ubuntu_user/
+scp "Windows_file_path.py" user@IP_Raspberry:/home/ubuntu_user/
 ```
 
 ## Installing ROS Melodic and turtlebot packages
